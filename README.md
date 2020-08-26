@@ -1,8 +1,8 @@
-### Hi there 👋
+<center>### ✨✨✨ Hi there 👋🤔🤔🤔</center>
 
-[![Cary github stats](https://github-readme-stats.vercel.app/api?username=jian22446688&show_icons=true&theme=radical)](https://github.com/jian22446688/alien-vue-admin)
-
-
+<center>
+  [![Cary github stats](https://github-readme-stats.vercel.app/api?username=jian22446688&show_icons=true&theme=radical)](https://github.com/jian22446688/alien-vue-admin)
+</center>
 
 <!--
 **jian22446688/jian22446688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
